@@ -16,7 +16,7 @@ This project implements an end-to-end Automatic License Plate Recognition (ALPR)
 ## **🛠️ Tech Stack**
 
 * **Language:** Python  
-* **Computer Vision:** OpenCV (cv2), imutils  
+* **Computer Vision:** OpenCV (cv2)  
 * **Deep Learning:** PyTorch, EasyOCR  
 * **Visualization:** Matplotlib, NumPy
 
@@ -39,6 +39,4 @@ You can run the detection pipeline through the provided Jupyter Notebook:
 ## **📊 Results**
 
 The system successfully localizes plates even in cluttered backgrounds and provides high-confidence text extraction for standard vehicle plates.
-
-| Original Image --> Detected Plate --> OCR Output |
 
